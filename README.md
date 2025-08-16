@@ -1,4 +1,4 @@
 👋 Hi, I’m @ronnyandre<br/>
-👀 Coding<br/>
-🌱 React, iOS<br/>
+👀 Coding and Solving<br/>
+🌱 React, iOS, AI<br/>
 📫 ronnyandre@gmail.com
